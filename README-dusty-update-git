@@ -1,0 +1,4 @@
+git svn fetch
+git svn rebase
+git push origin master
+
